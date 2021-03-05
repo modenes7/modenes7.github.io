@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url(Images/Jumbotron.png);
+    background-size: cover;
+    min-height: 400px;
+}
+
+h1 {
+    font-family: brush script MT;
+}
+
+footer {
+	font-style:italic;
+    font-size:10px;
+    text-align: right;
+    padding: 10px 0;
+    margin: 10px;
+	position: relative;
+	clear: both;
+}
+
+.col-md {
+    text-align: justify;
+}
+
+.center{
+    text-align: center;
+}
+
