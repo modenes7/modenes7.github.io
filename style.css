@@ -4,8 +4,17 @@
     min-height: 400px;
 }
 
+.container {
+    background-color: #baf0ff;
+}
+
 h1 {
     font-family: brush script MT;
+    color:#950A11
+}
+
+h2{
+    color: #950A11
 }
 
 footer {
