@@ -1,4 +1,5 @@
 # TP FINAL TECHNOLOGIES WEB ET MULTIMEDIA
+## Présentation de l'analyse du corpus avec AntConc
 ## Gaia Modenese
 
 Ce travail à l’objective de combiner plusieurs logiciels pour analyser un corpus bilingue et illustrer les résultats de l'analyse. Le corpus que j'ai choisi d'analyser et le livre « Le Petit Prince », écrit par Antoine de Saint-Exupéry. Plus précisément je comparerai les versions en italien et en anglais du 2004. La raison pour laquelle je choisi d'analyser ce livre est car il est un des livres les plus connus et plus traduit au monde, mais surtout il s'agit d'un livre que j'adore. J'ai donc pensé qu'il serait intéressant d'analyser les différences dans les styles des 2 traductions avec l'aide d'un concordancier : AntConc. Dans ce document vous trouvez une explication des résultat obtenus grâce à l'analyse de mon corpus bilingue avec le logiciel AntConc.
